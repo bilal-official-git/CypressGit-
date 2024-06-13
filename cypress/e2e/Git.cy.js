@@ -1,6 +1,5 @@
-describe('template spec', () => {
-  it('passes', () => {
-    cy.visit('https://dealerportal.trailercentral.com/')
-    cy.visit('https://dealerportal.trailercentral.com/')
+describe('Bitbucket', () => {
+  it('Demo', () => {
+    cy.visit('https://www.saucedemo.com')
   })
 })
